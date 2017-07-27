@@ -1,5 +1,6 @@
 
-VERSION = 0.1
+VERSION = 0.0.1
+USER = ixl123
 
 CONTAINER = $(USER)/$(shell basename $(PWD)):$(VERSION)
 
