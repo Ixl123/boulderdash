@@ -1,5 +1,5 @@
 
-VERSION = 0.1
+VERSION = 0.2
 
 CONTAINER = $(USER)/$(shell basename $(PWD)):$(VERSION)
 
